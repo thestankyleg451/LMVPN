@@ -1,8 +1,0 @@
-PyQt5
-requests
-psutil
-undetected-chromedriver
-certifi
-setuptools
-pyinstaller
-packaging
